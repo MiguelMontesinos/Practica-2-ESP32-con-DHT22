@@ -61,4 +61,4 @@ Los valores se veran como en la siguiente imagen:
 
 # Créditos
 Desarrollado por Ing. Montesinos Molina Miguel de Jesus
-- [GitHub](https://github.com/inward182)
+[GitHub](https://github.com/MiguelMontesinos).
