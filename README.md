@@ -47,7 +47,7 @@ void loop() {
 
 3.- Conectar la DHT22 con la ESP32, con el GND, el puerto 15 y la salida de 3V
 
-![image](https://github.com/user-attachments/assets/6f660f6b-c489-4985-8581-e2748aa7149d)
+![image](https://github.com/MiguelMontesinos/Practica-2-ESP32-con-DHT22/blob/main/393537602-6f660f6b-c489-4985-8581-e2748aa7149d.png?raw=true)
 
 ## Instrucciones de operación 
 1.- Iniciar el Simulador
@@ -57,7 +57,7 @@ void loop() {
 ## Resultados
 Los valores se veran como en la siguiente imagen:
 
-![image](https://github.com/user-attachments/assets/c2bc9e31-6b5b-46a7-bca2-7461c4527636)
+![image](https://github.com/MiguelMontesinos/Practica-2-ESP32-con-DHT22/blob/main/393537602-6f660f6b-c489-4985-8581-e2748aa7149d.png?raw=true)
 
 # Créditos
 Desarrollado por Ing. Montesinos Molina Miguel de Jesus
