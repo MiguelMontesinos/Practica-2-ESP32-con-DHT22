@@ -43,7 +43,7 @@ void loop() {
 ```
 2.- Insertar la librería del sensor DHT22 para nuestra tarjeta DHT22
 
-![image](https://github.com/user-attachments/assets/32b41991-e97a-4cb5-afa2-b0fcd211e35b)
+![image](https://github.com/MiguelMontesinos/Practica-2-ESP32-con-DHT22/blob/main/393537542-32b41991-e97a-4cb5-afa2-b0fcd211e35b.png?raw=true)
 
 3.- Conectar la DHT22 con la ESP32, con el GND, el puerto 15 y la salida de 3V
 
